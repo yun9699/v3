@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import routeConfig from './Routers'
+import routeConfig from './routers'
 
 
 createApp(App)
